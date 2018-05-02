@@ -1,13 +1,12 @@
-Vsftpd Installs on RHEL/Debian or based OS
+A Playbook, that installs the basic tools of an SysAdmin.
 =========
 
-This playbook will install vsftpd, will configure port 2120 with anonymous login on and local users of OS will works fine.
+This playbook will install on Debian the Chrome Browser, Emma (Remote MySQL), FileZilla, Java, PidGin, Pulse Secure, Remmina(Remote Desktop), Sublime Text, xFceTerm(terminal).
 
 Requirements
 ------------
 
-- OS Rhel based
-- OS Deb based
+- OS Debian (This playbook is developed for Debian native OS, but can work properly with Debian Based OS)
 
 Role Variables
 --------------
@@ -36,4 +35,4 @@ GNU
 Author Information
 ------------------
 
-Hello, i am Igor, a IT & Infosec Expert, linux entusiastic and some sysadm/devops skills.  
+Hello, my name is Igor, an IT & Infosec Expert, regex pro player and devops skills to made everything happens fast.
